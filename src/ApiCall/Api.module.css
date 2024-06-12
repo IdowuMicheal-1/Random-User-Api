@@ -1,0 +1,49 @@
+.topDiv{
+    background-color: #cff6c6;
+    width:500px;
+    height:600px;
+    margin: auto;
+    border-radius: 8px;
+    padding: 20px 40px;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    
+}
+
+.firstText{
+    color:#37ea0f;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 40px;
+    background-color: #b6f5a8;
+    padding:2px 20px;
+    border-radius: 4px;
+    height: 250px;
+    display:flex;
+    width:auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center ;
+}
+
+.btn{
+    background-color: #075109;
+    padding:20px 40px;
+    font-size: 14px;
+    color:#47fb1e;
+    border: 0;
+    border-radius: 8px;
+    width:auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor:pointer;
+    margin:auto;
+    margin-top: 10px;
+}
